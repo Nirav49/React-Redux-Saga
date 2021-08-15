@@ -17,3 +17,6 @@ function* watchGetUserList() {
 }
 
 export default [fork(watchGetUserList)];
+
+
+
